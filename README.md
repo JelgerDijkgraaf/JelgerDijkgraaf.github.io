@@ -12,7 +12,7 @@ Voor vragen over dit privacybeleid kun je contact opnemen via:
 ## 1. Wanneer geldt dit privacybeleid?
 Dit privacybeleid geldt voor alle gebruikers van de AVES-app.
 
-De app is bedoeld voor een breed publiek (10+). Voor gebruik door kinderen onder de 16 jaar is toestemming van een ouder of verzorger vereist.
+De app is bedoeld voor elke vogelaar (13+). Voor gebruik door kinderen onder de 16 jaar is toestemming van een ouder of verzorger vereist.
 
 ---
 
@@ -28,6 +28,7 @@ In de toekomst kan AVES de volgende gegevens gaan verwerken:
 - App-statistieken: anonieme gebruiksgegevens.  
 - Locatiegegevens: alleen wanneer je hier zelf actief toestemming voor geeft.
 
+Dit zal allemaal duidelijk aangegeven worden, en niet in gang gaan zonder toestemming van de gebruiker.
 ---
 
 ## 3. Waarom verwerken we je gegevens?
